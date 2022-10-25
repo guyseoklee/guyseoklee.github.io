@@ -6,20 +6,20 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Lee Gyu Seok
-title: Student, Hallym University (major : Big Data)
-email: lgs3260@naver.com
+name: LeeGyuSeok
+title: 
+email: 
 # email_title: Email (Email title override)
-phone: 010-9259-2260
+phone: 
 # phone_title: Phone (Phone title override)
-website: www.hallym.ac.kr
+website: 
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-github_username:  guyseoklee
+github_username: 
 instagram_username: 
 
 # Additional icon links
