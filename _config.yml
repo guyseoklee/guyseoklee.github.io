@@ -49,11 +49,15 @@ about_content: | # this will include new lines to allow paragraphs
  - 성격 장단점
 
     장점 - 긍정적임
-
-    단점 - 순응적임k
+    단점 - 순응적임
  - 취미 - 영화감상 및 리뷰
  - 특기 - 기타연주
+ - 학력
+
+    2016 ~ 2018 . 평내고등학교 졸업
+    2018 ~        . 한림대학교 재학중
  - 좌우명 - it's not your(my) fault 
+ - MBTI - ENFP
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
