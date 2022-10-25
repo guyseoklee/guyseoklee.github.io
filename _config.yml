@@ -41,7 +41,17 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
- - 생년월일-1999.11.04
+
+ - 생년월일 - 1999.11.04
+ - 현주소 - 경기도 남양주시 다산순환로 365(다산동, 힐스테이트 다산)
+ - 대학교 - 한림대학교
+ - 전공 - 빅데이터
+ - 성격 장단점
+    장점 - 긍정적임
+    단점 - 순응적임
+ - 취미 - 영화감상 및 리뷰
+ - 특기 - 기타연주
+ - 좌우명 - it's not your(my) fault 
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
