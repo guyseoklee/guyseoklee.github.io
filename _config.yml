@@ -62,8 +62,6 @@ about_content: | # this will include new lines to allow paragraphs
  - 프로그래밍 언어 스킬 - java , C , C++ , C#, SQL , python
  - 좌우명 - it's not your(my) fault 
 
-    # <a href="google.com">Links</a>
-    # Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Education
