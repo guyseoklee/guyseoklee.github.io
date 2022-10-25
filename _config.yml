@@ -62,11 +62,8 @@ about_content: | # this will include new lines to allow paragraphs
  - 프로그래밍 언어 스킬 - java , C , C++ , C#, SQL , python
  - 좌우명 - it's not your(my) fault 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    # <a href="google.com">Links</a>
+    # Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
    - title: Education
