@@ -66,6 +66,13 @@ about_content: | # this will include new lines to allow paragraphs
     # Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Hallym University
+        sub_title: Big Data
+        caption: 2018 -
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
