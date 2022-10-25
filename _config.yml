@@ -69,7 +69,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Hallym University
         sub_title: Big Data
         caption: 2018 -
