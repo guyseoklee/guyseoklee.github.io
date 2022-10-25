@@ -12,7 +12,7 @@ email: lgs3260@naver.com
 # email_title: Email (Email title override)
 phone: 010-9259-2260
 # phone_title: Phone (Phone title override)
-website: www.hallym.as.kr
+website: www.hallym.ac.kr
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,13 +20,13 @@ darkmode: false
 
 # Social links
 github_username:  guyseoklee
-instagram_username: gyu_stone_99
+instagram_username: 
 
 # Additional icon links
 additional_links:
 - title: Lee Gyu seok Resume
   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: guyseoklee.github.io #Link url (eg. https://google.com)
+  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -39,7 +39,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ![alt text] (C:\Users\lgs22\OneDrive\바탕 화면\1.png) #Directory of profile image (eg. images/profile.jpg)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
