@@ -70,7 +70,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     긍정적으로 생각하여 자책하지 않는 마인드를 가지도록 노력하고 있습니다.
 
-    Format: ![Alt Text](https://user-images.githubusercontent.com/115774339/198074117-25cc2203-e685-47b4-b051-351187ec4a69.jpg)
+    <img src='https://user-images.githubusercontent.com/115774339/198074117-25cc2203-e685-47b4-b051-351187ec4a69.jpg'>
 
 content:
   - title: Education
