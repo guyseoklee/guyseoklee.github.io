@@ -62,13 +62,15 @@ about_content: | # this will include new lines to allow paragraphs
  - 사용 가능한 프로그래밍 언어 - java , C , C++ , C#, SQL , python , R
  - 좌우명 - it's not your(my) fault 
    
-  영화 굿 윌 헌팅의 대사로 숀 맥과이어 교수가 제자 윌 헌팅을 위로하기 위해 반복한 말입니다.
+    영화 굿 윌 헌팅의 대사로 숀 맥과이어 교수가 제자 윌 헌팅을 위로하기 위해 반복한 말입니다.
 
-  저는 이 대사를 보고 어떤 힘든 상황에서도 남탓 하지 않고 위로 해주며, 
+    저는 이 대사를 보고 어떤 힘든 상황에서도 남탓 하지 않고 위로 해주며, 
 
-  그렇다고 본인탓 하지 않고 그냥 간단하게 내 잘못이 아니다. 라고 긍정적으로 생각하여 자책하지 않는 마인드를 가지도록 노력하고 있습니다.
+    그렇다고 본인탓 하지 않고 그냥 간단하게 내 잘못이 아니다. 라고,
 
-  https://user-images.githubusercontent.com/115774339/198074117-25cc2203-e685-47b4-b051-351187ec4a69.jpg 
+    긍정적으로 생각하여 자책하지 않는 마인드를 가지도록 노력하고 있습니다.
+
+    image: https://user-images.githubusercontent.com/115774339/198074117-25cc2203-e685-47b4-b051-351187ec4a69.jpg 
 
 content:
   - title: Education
@@ -79,10 +81,11 @@ content:
         sub_title: Big Data
         caption: 2018 - present
         quote: >
-          한림대학교를 재학 하면서 여러가지 프로그래밍 언어를 배우고 개인, 팀 프로젝트를 해내면서 문제해결 능력과 협동심 등의 능력들을 많이 배우고 기를 수 있는 시간이었습니다.
+          한림대학교를 재학 하면서 여러가지 프로그래밍 언어를 배우고 학습하였습니다.
+	 
+          배운 내용들을 토대로 하여 개인, 팀 프로젝트를 해내면서 문제해결 능력과 협동심 등의 능력들을 많이 배우고 기를 수 있는 기회를 가질 수 있었습니다.
         description: | # this will include new lines to allow paragraphs
-          학술 동아리 노네임에서 활동도 하고, 대쉬에서 농구 동아리도 하며 즐겁게 학교 생활하였습니다.
-
+          학술 동아리로 노네임에서 활동도 하고, 농구 동아리 대쉬에서 활동하며 지덕체를 갖추기 위한 학교 생활하였습니다.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
